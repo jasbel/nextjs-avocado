@@ -4,15 +4,13 @@
   </a>
 </p>
 <h1 align="center">
-  Proyecto del Curso: Next.js
+  Proyecto: Next.js
 </h1>
 <p align="center">
-  <a href="https://platzi-avo.vercel.app/" target="_blank">
-    https://platzi-avo.vercel.app/
+  <a href="https://nextjs-avocado.vercel.app/" target="_blank">
+    https://nextjs-avocado.vercel.app/
   </a>
 </p>
-
-[Curso de Next.js](https://platzi.com/cursos/next-2020/) dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
 
 * [Cómo trabajar en este proyecto?](#-cómo-trabajar-en-este-proyecto)
 * [Guía rápida](#-gu%C3%ADa-rápida)
@@ -20,15 +18,13 @@
 * [Encontraste un error o mejora?](#-encontraste-un-error-o-mejora)
 
 ### 🔎 Cómo trabajar en este proyecto?
-El curso es totalmente práctico y progresivo. Este repositorio sólo existe como una guía para cuando lo necesites. Puedes realizar todo el curso en tu propio proyecto y tu propio repositorio.
+Este repositorio sólo existe como una guía para cuando lo necesites.
 
 Avanzamos en el curso a un nuevo tema y no puedes o no quieres completar los cambios anteriores para continuar? 
 Empieza desde la etiqueta git correspondiente al módulo del curso.
 
 
 1.  Actualiza la información de las etiquetas:
-    
-    > Anteriormente debiste clonar este repositorio tal como lo hicimos en clase.
 
     ```sh
     git fetch --tags
@@ -110,11 +106,5 @@ git pull mi-repo branch-a-hacer-push
 1. Configura path aliases
 1. Crea páginas y componentes UI para el sitio.
 1. Crea Store simple usando Context
-
-
-### 🐞 Encontraste un error o mejora?
-Ayuda a otros estudiantes con eso que acabas de descubrir que haría este curso y respositorio mucho mejor.
-* En [Issues](https://github.com/jonalvarezz/platzi-optimizacion-web/issues/new) puedes reportar errores, agregar sugerencias y comentarios.
-* Por su parte, los [Pull Request](https://github.com/jonalvarezz/platzi-optimizacion-web/pulls) siempre estarán abiertos para recibir mejoras puntuales.
 
 Happy hacking!
